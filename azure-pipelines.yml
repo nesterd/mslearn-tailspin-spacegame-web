@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+#some comment
 pool:
   vmImage: 'ubuntu-16.04'
   demands:
